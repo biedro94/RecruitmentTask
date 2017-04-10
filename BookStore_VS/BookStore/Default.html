@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+</head>
+    
+    <body id="bookList">
+       <div class="modal fade" tabindex="-1" role="dialog" id="myModal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">Brak produktów</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>W bazie danych nie odnaleziono produktów&hellip;</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" tabindex="-1" role="dialog" id="addCartModal">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">Dodaj produkt do koszyka</h4>
+                    </div>
+                    <div class="modal-body">
+                        Tytuł:<input type="text" data-bind="" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="loader"></div>      
+        <header class="header">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-4 ">
+                        <h3>Księgarnia Internetowa</h3>
+                        <h5>Nasze sklepy prowadzimy z pasją!</h5>
+                    </div>
+                    <div class="col-lg-4 searchEngine text-center">
+                        <span>Wyszukiwarka</span>
+                        <input type="search" data-bind="value: $root.query, valueUpdate : 'afterkeydown', event: { 'keyup': $root.enterPress }" />
+                        <a href="#" data-bind="click:function(){$root.search($root.query());}">Szukaj</a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <section>
+                <div class="container">
+                    <h4>Katalog książek</h4>
+
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">                        
+                        <div class="row bookMenu">
+                            <div class="col-lg-2 text-center menuElement">
+                                <a href="#" data-bind="click: function() {clickedValue(0); $root.sortBooks(0)}">Wszystkie</a>
+                            </div>
+                            <div class="col-lg-2 text-center menuElement">
+                                <a href="#" data-bind="click: function() {clickedValue(1); $root.sortBooks(1)}">AudioBooki</a>
+                            </div>
+                            <div class="col-lg-2 text-center menuElement">
+                                <a href="#" data-bind="click: function() {clickedValue(2); $root.sortBooks(2)}">E-Booki</a>
+                            </div>
+                            <div class="col-lg-2 text-center menuElement">
+                                <a href="#" data-bind="click: function() {clickedValue(3); $root.sortBooks(3)}">Nowości</a>
+                            </div>
+                            <div class="col-lg-2 text-center menuElement">
+                                <a href="#" data-bind="click: function() {clickedValue(4); $root.sortBooks(4)}">Zapowiedzi</a>
+                            </div>
+                            <div class="col-lg-2 text-center menuElement">
+                                <a href="#" data-bind="click: function() {clickedValue(5); $root.sortBooks(5)}">Super okazje</a>
+                            </div>
+                        </div>                       
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Nazwa</th>
+                                    <th>Data wydania</th>
+                                    <th>Cena</th>
+                                    <th>Autor</th>
+                                    <th>Wydawnictwo</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody data-bind="foreach: bookList">                                
+                                <tr id="books">
+                                    <td data-bind="text:name"></td>
+                                    <td data-bind="text:publishedDate"></td>
+                                    <td data-bind="text:price+' zł'"></td>
+                                    <td data-bind="text:author"></td>
+                                    <td data-bind="text:publishingHouse"></td>
+                                    <td><a href="#" data-bind="click:function(){ $root.modalCart($data)}">do koszyka</a></td>
+                                </tr>                                
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </body>
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/knockout-3.4.2.js"></script>
+    <script src="Scripts/knockout.mapping-latest.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Js/ViewModels/BookViewModel.js"></script>
+    
+</html>

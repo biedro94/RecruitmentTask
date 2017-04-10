@@ -1,0 +1,40 @@
+﻿
+.header{
+    border-bottom:1px solid black;
+}
+
+.cart{
+    border:1px solid black;
+    padding:0.5em;
+    vertical-align:middle;
+}
+
+.modal{
+    z-index:9999;
+}
+
+.bookMenu{
+    border-bottom:1px solid black;
+}
+
+.menuElement{
+    background:#e0e0e0;
+    color:black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.loader{
+    background: url("../../img/default.svg") no-repeat scroll center center #FFF;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+div.searchEngine{
+    margin-top:2em;
+}
+
+div.searchEngine > input[type=search]{
+    border-radius:15px;
+}

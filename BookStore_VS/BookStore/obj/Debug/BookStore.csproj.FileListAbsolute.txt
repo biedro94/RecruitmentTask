@@ -1,0 +1,100 @@
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\ApplicationInsights.config
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\csc.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\vbc.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\BookStore.dll.config
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\BookStore.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\BookStore.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\EntityFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.Web.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Webpages.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\EntityFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.Web.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Webpages.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\obj\Debug\BookStore.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\ApplicationInsights.config
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\csc.exe
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\vbc.exe
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\BookStore.dll.config
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\BookStore.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\BookStore.pdb
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\EntityFramework.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.Web.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Razor.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Webpages.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\EntityFramework.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.Web.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Razor.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Webpages.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\obj\Debug\BookStore.dll
+C:\Users\Damian\Desktop\BookStore_VS\BookStore\obj\Debug\BookStore.pdb
